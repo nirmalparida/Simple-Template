@@ -8,6 +8,14 @@ body {
     font-family: "Raleway Sans", sans-serif;
 }
 
+.wrapper {
+    margin: 0 auto;
+    width: 1200px;
+}
+
+
+/*Header*/
+
 header {
     background-color: rgb(63, 59, 73);
     height: 400px;
@@ -188,14 +196,14 @@ header {
 }
 
 .signup {
-    margin: 10px 80px;
+    margin: 10px 60px;
     text-align: center;
     text-transform: uppercase;
-    padding: 12px 20px;
+    padding: 12px 14px;
     color: white;
     background-color: orangered;
     border: none;
-    font-size: 16px;
+    font-size: 14px;
     font-weight: bold;
     border-radius: 4px;
 }
